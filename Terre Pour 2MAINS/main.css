@@ -1,9 +1,19 @@
 
  body{
-   font-family: 'Open Sans', sans-serif;
+   font-family:'Josefin Slab', 'Open Sans', sans-serif;
  }
-.persoTitre{
+
+
+.persoBg{
   font-family: 'Josefin Slab', serif;
-  font-weight:bold;
-  weight: 20 em;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#bfd255+39,9ecb2d+63 */
+background: #bfd255; /* Old browsers */
+background: -moz-linear-gradient(top,  #bfd255 39%, #9ecb2d 80%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #bfd255 39%,#9ecb2d 80%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #bfd255 39%,#9ecb2d 80%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfd255', endColorstr='#9ecb2d',GradientType=0 ); /* IE6-9 */
+}
+
+html{
+  scroll-behavior: smooth !important;
 }
