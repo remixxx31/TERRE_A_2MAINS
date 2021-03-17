@@ -13,6 +13,19 @@ background: linear-gradient(bottom,  #2dcd5a 7%,#9ecb2d 55%); /* W3C, IE10+, FF1
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bfd255', endColorstr='#9ecb2d',GradientType=0 ); /* IE6-9 */
 }
 
+.persoOrange{
+  color: #cd822d;
+}
+.persoBlueLt{
+  color:#2da0cd;
+}
+.persoGreen{
+  color:#2dcd5a;
+}
+.persoBlue{
+  color:#2d50cd;
+}
+
 html{
   scroll-behavior: smooth !important;
 }
