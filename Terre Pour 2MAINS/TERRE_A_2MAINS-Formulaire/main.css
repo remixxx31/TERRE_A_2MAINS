@@ -84,6 +84,9 @@ select multiple{
   transform: rotate(-90deg);
   transform-origin: 2 2 !important;
 }
+.carousel-inner img {
+  width: 100%;
+  height: auto;
 
 /* .vertical{
   font-size: 14px;
