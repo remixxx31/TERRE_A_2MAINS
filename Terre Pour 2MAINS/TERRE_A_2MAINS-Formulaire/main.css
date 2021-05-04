@@ -80,6 +80,9 @@ select multiple{
   width: 100% !important;
 }
 
+/* footer{
+  background-color: #2da0cd !important;
+} */
 .vertical{
   transform: rotate(-90deg);
   transform-origin: 2 2 !important;
@@ -88,35 +91,3 @@ select multiple{
   width: 100%;
   height: auto;
 
-/* .vertical{
-  font-size: 14px;
-  letter-spacing: 0.025rem;
-  color: #cd822d;
-  position: absolute;
-  bottom: 2rem;
-  left: 2.5rem;
-  transform: rotate(-90deg)!important;
-  transform-origin: 0 0;
-  color: rgba(255,255,255,0.5);
-}
-  
-  a.vertical{
-    color: inherit;
-    text-decoration: none;
-    border-bottom: 1px solid transparent;
-    display: inline-block;
-    transition-property: color;
-    transition-duration: .25s;
-    transition-timing-function: ease;
-  }
-    a.vertical :hover{
-      color: #ffcc00;
-    }
-      a.vertical :after{
-        color: rgba(255,255,255,0.5);
-    }
-    a.vertical :after{
-      content: '\002794';
-      padding: 0 .5rem;
-      display: inline-block;
-    } */
